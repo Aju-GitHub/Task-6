@@ -1,0 +1,10 @@
+Steps for Creating a Free Cloud Account in Google Cloud Platform (GCP)
+
+Step 1: Visit GCP
+Step 2: Click on Get Started for free
+Step 3: Select the country
+Step 4: Select Start free
+Step 5: Enter individual details
+Step 6: Verify identity
+Step 7: Make payment to continue to use the platform/use credits to activate the Google Cloud console
+

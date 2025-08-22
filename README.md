@@ -1,6 +1,6 @@
 # Cybesecurity Task 6
 
-This tak outlines the step-by-step process to create a free-tier account on Google Cloud Platform, enabling cloud computing exploration before beginning to learn cloud security.
+This task outlines the step-by-step process to create a free-tier account on Google Cloud Platform, enabling cloud computing exploration before beginning to learn cloud security.
 
 **Repository Structure:**
 
